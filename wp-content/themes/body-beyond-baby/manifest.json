@@ -1,0 +1,22 @@
+{
+  "name": "Body Beyond Baby",
+  "short_name": "BBB",
+  "description": "BBB Trainers",
+  "start_url": "",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "orientation": "portrait",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./images/favicons/v1/favicon-192.png",
+      "type": "image/icons/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/favicons/v1/favicon-512.png",
+      "type": "image/favicons/png",
+      "sizes": "512x512"
+    }
+  ]
+}
