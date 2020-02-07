@@ -1,0 +1,11 @@
+.search-in-place-type {background: url("arrow.png") no-repeat 0px bottom;color: #aaa;text-transform: uppercase;font-size: 12px;}
+.search-in-place {position: absolute;z-index: 9999;margin: 0;padding: 0;overflow: hidden;}
+.search-in-place .loading {width: 16px;height: 11px;background: url("../images/loading.gif") no-repeat;margin: 0 auto;position: relative;}
+.search-in-place>div {padding: 0 5px;}
+.search-in-place .label {text-transform: uppercase;font-size: 12px;}
+.search-in-place .item {border-top: 1px solid #fff;}
+.search-in-place .title {display: block;}
+.search-in-place .resume {display: block;font-size: 10px;}
+.search-in-place .author {font-size: small;font-weight: bold;}
+.search-in-place .date {font-size: small;margin-left: 5px;font-style: italic;}
+.search-in-place .more {text-align: right;}
